@@ -1,0 +1,67 @@
+{
+  "name": "Dark",
+  "description": "Modern dark theme with soft contrast",
+  "text_widget": {
+    "background": "#1e1e1e",
+    "foreground": "#d4d4d4",
+    "cursor": "#ffffff",
+    "selection": "#264f78",
+    "selection_foreground": "#ffffff",
+    "current_line": "#2a2a2a"
+  },
+  "line_numbers": {
+    "background": "#252526",
+    "foreground": "#858585",
+    "current_line": "#569cd6"
+  },
+  "syntax": {
+    "keyword": "#569cd6",
+    "builtin": "#dcdcaa",
+    "string": "#ce9178",
+    "comment": "#6a9955",
+    "number": "#b5cea8",
+    "function": "#dcdcaa",
+    "class": "#4ec9b0",
+    "decorator": "#4fc1ff",
+    "tag": "#569cd6",
+    "attribute": "#92c5f8",
+    "property": "#9cdcfe",
+    "selector": "#d7ba7d",
+    "header": "#569cd6",
+    "bold": "#ffffff",
+    "italic": "#d4d4d4",
+    "code": "#ce9178",
+    "link": "#4fc1ff",
+    "operator": "#d4d4d4",
+    "punctuation": "#d4d4d4"
+  },
+  "ui": {
+    "background": "#2d2d30",
+    "foreground": "#cccccc",
+    "highlight": "#3e3e42",
+    "border": "#464647",
+    "button": "#0e639c",
+    "button_hover": "#1177bb",
+    "button_active": "#007acc"
+  },
+  "search": {
+    "highlight": "#515c6a",
+    "current_match": "#ea973d",
+    "replace_highlight": "#1e3a1e"
+  },
+  "error": {
+    "background": "#3d1e1e",
+    "foreground": "#f14c4c",
+    "underline": "#ff6b6b"
+  },
+  "warning": {
+    "background": "#3d3d1e",
+    "foreground": "#ffcc02",
+    "underline": "#ffcc02"
+  },
+  "info": {
+    "background": "#1e2a3d",
+    "foreground": "#4fc1ff",
+    "underline": "#4fc1ff"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Light",
+  "description": "Clean light theme with high contrast",
+  "text_widget": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "cursor": "#000000",
+    "selection": "#0078d4",
+    "selection_foreground": "#ffffff",
+    "current_line": "#f5f5f5"
+  },
+  "line_numbers": {
+    "background": "#f8f8f8",
+    "foreground": "#666666",
+    "current_line": "#0078d4"
+  },
+  "syntax": {
+    "keyword": "#0000ff",
+    "builtin": "#800080",
+    "string": "#008000",
+    "comment": "#808080",
+    "number": "#ff0000",
+    "function": "#000080",
+    "class": "#800000",
+    "decorator": "#808000",
+    "tag": "#800000",
+    "attribute": "#ff0000",
+    "property": "#000080",
+    "selector": "#800000",
+    "header": "#000080",
+    "bold": "#000000",
+    "italic": "#000000",
+    "code": "#008000",
+    "link": "#0000ff",
+    "operator": "#000080",
+    "punctuation": "#000000"
+  },
+  "ui": {
+    "background": "#f0f0f0",
+    "foreground": "#000000",
+    "highlight": "#e0e0e0",
+    "border": "#cccccc",
+    "button": "#e1e1e1",
+    "button_hover": "#d4d4d4",
+    "button_active": "#0078d4"
+  },
+  "search": {
+    "highlight": "#ffff00",
+    "current_match": "#ff6600",
+    "replace_highlight": "#90ee90"
+  },
+  "error": {
+    "background": "#ffeeee",
+    "foreground": "#cc0000",
+    "underline": "#ff0000"
+  },
+  "warning": {
+    "background": "#fff8dc",
+    "foreground": "#ff8c00",
+    "underline": "#ffa500"
+  },
+  "info": {
+    "background": "#e6f3ff",
+    "foreground": "#0078d4",
+    "underline": "#0078d4"
+  }
+}
